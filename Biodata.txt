@@ -3,3 +3,4 @@ Kelas	     : 17.6A.26
 Alamat	     : Jl. Perumahan Dukuh zambrut Blok P11 
 Hobby	     : Masak
 Cita-cita    : Bos Muda
+pekerja	     : Mahasiswi
